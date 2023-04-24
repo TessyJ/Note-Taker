@@ -8,7 +8,8 @@ https://github.com/TessyJ/Note-Taker
 
 https://tessyj.github.io/Note-Taker/
 
-# Heroku Repository
+# Heroku URL
+
 https://dashboard.heroku.com/apps
 
 # Project Description
