@@ -2,9 +2,14 @@
 
 # Project URL
 
+https://github.com/TessyJ/Note-Taker
+
 # Project Repository
 
+https://tessyj.github.io/Note-Taker/
+
 # Heroku Repository
+https://dashboard.heroku.com/apps
 
 # Project Description
 
