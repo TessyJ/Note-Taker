@@ -10,7 +10,7 @@ https://tessyj.github.io/Note-Taker/
 
 # Heroku URL
 
-https://dashboard.heroku.com/apps
+https://short-note-taker.herokuapp.com/
 
 # Project Description
 
